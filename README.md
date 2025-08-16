@@ -1,7 +1,8 @@
 # Udacity-project-3
 
-It was accessible on http://3.87.34.188:30080/. Now My EC2 instances were X2.large. Hence now EC2 is stopped.
-<img width="976" height="237" alt="image" src="https://github.com/user-attachments/assets/d68544a8-2b9d-4ab4-970d-45a8ad4f6c6b" />
+It was accessible on http://13.217.108.218:30081/. Now My EC2 instances were X2.large. Hence now EC2 is stopped.
+<img width="1003" height="182" alt="URL-OP" src="https://github.com/user-attachments/assets/26072c5c-68c4-4af1-81b4-5a692a0d6d3e" />
+
 
 # Udacity Project 3: Python Application Containerized with CI/CD using AWS Codebuild and Pushing to ECR & Deployment with Minikube(Single node cluster)
 
